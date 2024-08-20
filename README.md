@@ -24,7 +24,9 @@ for debugging, installation problems or anything else, ask your buddy `ChatGPT`.
 .
 .
 .
+
 Generic foundry info
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
