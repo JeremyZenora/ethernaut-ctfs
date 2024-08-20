@@ -1,2 +1,6 @@
 # ethernaut-ctfs
-I solved 31 Ethernaut challenges in &lt;4 days. I did not include the script file for most challenges, however if some more complex logic is needed for interacting with the contracts, it should be in the Attacks files.
+I am using `Foundry` framework for solving the CTFs, I find it to be the most convenient one, you can just use solidity language to complete everything, no JS or PYTHON needed.
+
+I solved 31 Ethernaut challenges in &lt;4 days. I did not include the script file for most challenges, however if some more complex logic is needed for interacting with the contracts, it should be in the `Attacks` files.
+
+For sure by the time you read this, there might be more CTFs added, I might add them in the future as well:) 
